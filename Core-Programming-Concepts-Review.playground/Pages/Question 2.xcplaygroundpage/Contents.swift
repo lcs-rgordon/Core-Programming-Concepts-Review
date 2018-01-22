@@ -19,6 +19,19 @@
  */
 // Answer question 2 below
 
+var numberOfCommits = 17
+var numberOfForks = 5
+print("Variables were used for number of commits and number of forks, because these values will change for a given repository over time.")
+
+let yearCreated = 2018
+let monthCreated = 12
+let dayCreated = 10
+print("Constants were used for the year, month, and day of the repository creation, because these values are set when the repository is created – and will never change after that point.")
+
+
+
+
+
 /*:
  ## Now share your understanding
  
