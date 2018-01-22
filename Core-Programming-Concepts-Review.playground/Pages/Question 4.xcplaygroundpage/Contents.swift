@@ -21,6 +21,13 @@
  
  */
 // Answer question 4 below
+var dinerCount : Int = 4
+var saladBarConsumption : Double = 3.4
+var soupConsumption : Double = 1.2
+var mainCourseConsumption : Double = 3.4
+var pizzaOvenItemConsumption : Double = 15.6
+var date : String = "Thursday, January 18, 2018"
+var timeFrame : String = "11:30 AM to 1:00 PM"
 
 /*:
  ## Now share your understanding
