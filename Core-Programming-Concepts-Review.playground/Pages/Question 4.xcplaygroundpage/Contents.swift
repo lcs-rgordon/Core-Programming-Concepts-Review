@@ -22,12 +22,19 @@
  */
 // Answer question 4 below
 var dinerCount : Int = 4
+print("An integer is used for dinerCount because you really can't have half or a quarter of a person... it's a whole person, or nothing, right? 1, 2, 3, 4 people... not 4.5 people eating a meal.")
 var saladBarConsumption : Double = 3.4
 var soupConsumption : Double = 1.2
 var mainCourseConsumption : Double = 3.4
 var pizzaOvenItemConsumption : Double = 15.6
+
+print("A double-precision floating point value (a Double) is used for the above four variables because these measurements could very well have part of a whole (for example, 3.4 kg of salad).")
+
 var date : String = "Thursday, January 18, 2018"
 var timeFrame : String = "11:30 AM to 1:00 PM"
+
+print("A String is used for these variables because you cannot store a mix of characters and numbers in any other data type.")
+
 
 /*:
  ## Now share your understanding
